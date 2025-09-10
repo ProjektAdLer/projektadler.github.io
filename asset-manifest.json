@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/2D_3D_AdLer/static/css/main.1007ee8a.css",
-    "main.js": "/2D_3D_AdLer/static/js/main.50292301.js",
+    "main.css": "/2D_3D_AdLer/static/css/main.6cc8e7c6.css",
+    "main.js": "/2D_3D_AdLer/static/js/main.81197ab0.js",
     "static/media/env-campus-studentClub.glb": "/2D_3D_AdLer/static/media/env-campus-studentClub.adb86604e2706a801604.glb",
     "static/media/env-campus-auditorium.glb": "/2D_3D_AdLer/static/media/env-campus-auditorium.34cf1eb11ce796bede47.glb",
     "static/media/env-campus-ab.glb": "/2D_3D_AdLer/static/media/env-campus-ab.19c6c947701dd6df53be.glb",
@@ -812,7 +812,7 @@
     "static/media/diffculties-adaptivity-medium-required-unsolved-icon.svg": "/2D_3D_AdLer/static/media/diffculties-adaptivity-medium-required-unsolved-icon.8e40b047911373a36f1c0b5ceaefc5e7.svg"
   },
   "entrypoints": [
-    "static/css/main.1007ee8a.css",
-    "static/js/main.50292301.js"
+    "static/css/main.6cc8e7c6.css",
+    "static/js/main.81197ab0.js"
   ]
 }
