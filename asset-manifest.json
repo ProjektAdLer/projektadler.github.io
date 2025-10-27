@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eeeba556.css",
-    "main.js": "/static/js/main.16bcd302.js",
+    "main.js": "/static/js/main.b793780e.js",
     "static/media/env-campus-studentClub.glb": "/static/media/env-campus-studentClub.adb86604e2706a801604.glb",
     "static/media/env-campus-auditorium.glb": "/static/media/env-campus-auditorium.34cf1eb11ce796bede47.glb",
     "static/media/env-campus-ab.glb": "/static/media/env-campus-ab.19c6c947701dd6df53be.glb",
@@ -769,7 +769,7 @@
     "static/media/Neural_Eyes_3.png": "/static/media/Neural_Eyes_3.7e9b9e0f84df006a4c33.png",
     "static/media/Neural_Eyes_4.png": "/static/media/Neural_Eyes_4.8bed30ff9ba207cd21ba.png",
     "static/media/Angry_Eyes_1.png": "/static/media/Angry_Eyes_1.b1622998c895c8a18712.png",
-    "static/media/settings.svg": "/static/media/settings.c272562587a5bda82a420eac6077feb5.svg",
+    "static/media/settings.svg": "/static/media/settings.d2d168948227884023e9715d7d651484.svg",
     "static/media/hair.svg": "/static/media/hair.dfa58287e4b99e1a41eb8765be2255c8.svg",
     "static/media/Neural_Eyes_1.png": "/static/media/Neural_Eyes_1.d6144525f1875b777a08.png",
     "static/media/interactive-element.svg": "/static/media/interactive-element.9d8c47f7b6db56e13fc7e14dc14d6114.svg",
@@ -778,15 +778,15 @@
     "static/media/NPCTalking.mp3": "/static/media/NPCTalking.14f1153e04c71e3eaf39.mp3",
     "static/media/LearningElementCompletion.mp3": "/static/media/LearningElementCompletion.c89d9f4d0fdae546e505.mp3",
     "static/media/accessoires.svg": "/static/media/accessoires.c043c72220fa051b5c9041d5231b7a4a.svg",
-    "static/media/space-story.svg": "/static/media/space-story.b719b75c99ef02ee2322fa406a73cea9.svg",
+    "static/media/space-story.svg": "/static/media/space-story.1ea7a827e79866c8aa99321ce3cda1aa.svg",
     "static/media/bug-report.svg": "/static/media/bug-report.d0848eded538e6071145c4247b901d6d.svg",
     "static/media/text.svg": "/static/media/text.6a8fef290882051a5e9ec965a7d992eb.svg",
     "static/media/aa-hair-short-buzzcut.glb": "/static/media/aa-hair-short-buzzcut.4dba2b6d0426e76428e2.glb",
     "static/media/aa-hats-hatcapbelfast.glb": "/static/media/aa-hats-hatcapbelfast.28200f44a8cdeb92bfa8.glb",
     "static/media/touch-zoom.svg": "/static/media/touch-zoom.64f9efe76f9d15c16bff43288b7071cc.svg",
     "static/media/world.svg": "/static/media/world.cfc695da01a88731fa845001f22f1368.svg",
-    "static/media/level.svg": "/static/media/level.3bb035e61ebe20c884f2fcb2296742a0.svg",
-    "static/media/world-story.svg": "/static/media/world-story.b45c8787a1d04829a3113770cb5e483f.svg",
+    "static/media/level.svg": "/static/media/level.67321cd53f80953e7921ee436ffb58be.svg",
+    "static/media/world-story.svg": "/static/media/world-story.0dd525ab1d17dc75dba9bf2d68019025.svg",
     "static/media/touch-and-drag.svg": "/static/media/touch-and-drag.10e8cea0122fc21eecf325eed665f125.svg",
     "static/media/image.svg": "/static/media/image.3ff2c529917dbcd3c11d01390b1d2132.svg",
     "static/media/fullscreen.svg": "/static/media/fullscreen.34402d31306e31742b69b0f73b2256b8.svg",
@@ -796,7 +796,7 @@
     "static/media/adaptivity-quiz.svg": "/static/media/adaptivity-quiz.36b5abe1dce0f5c6d3b0bf0243f0c81d.svg",
     "static/media/help.svg": "/static/media/help.47baf670af990ad275252a4e92fcd505.svg",
     "static/media/close.svg": "/static/media/close.2e2701ef8b05cfd3f9ca95102ce51e83.svg",
-    "static/media/xp.svg": "/static/media/xp.d7d9b2f5d67eb9c91e3297f015a69752.svg",
+    "static/media/xp.svg": "/static/media/xp.b7817074d2b5bb8de94cfdc83476d429.svg",
     "static/media/smartphone.svg": "/static/media/smartphone.a408f657af3f770cb7a9b5482765953a.svg",
     "static/media/clothing.svg": "/static/media/clothing.b13d2c973a7e6ff9e5324f51e7ed31c8.svg",
     "static/media/video.svg": "/static/media/video.e42fde36abf74a7e8e8c43fde10e432a.svg",
@@ -815,7 +815,7 @@
     "static/media/check-solution.svg": "/static/media/check-solution.5dbb65275cd63ccd136c0dbe76c8ca18.svg",
     "static/media/unlocked.svg": "/static/media/unlocked.33471cb8852b8c43ea126846085862d7.svg",
     "static/media/manual.svg": "/static/media/manual.fce86fba961aca0e13fbc42d28a2876b.svg",
-    "static/media/random.svg": "/static/media/random.fd1128f3072654dafe7aedbc94b6fc3e.svg",
+    "static/media/random.svg": "/static/media/random.aa87ccc84b4cc1570989753d7728b204.svg",
     "static/media/right.svg": "/static/media/right.66ab8d34d8b9a24bade891e2d648133a.svg",
     "static/media/left.svg": "/static/media/left.7c69db50442043ad8b94e5f0ca001a79.svg",
     "static/media/moodle.svg": "/static/media/moodle.5815e7652d42e4648ea26040c5708176.svg",
@@ -833,7 +833,7 @@
     "static/media/diffculties-adaptivity-hard-required-tried.svg": "/static/media/diffculties-adaptivity-hard-required-tried.9deabee0c7a9dfd60c8196ab2e34522f.svg",
     "static/media/diffculties-adaptivity-medium-tried.svg": "/static/media/diffculties-adaptivity-medium-tried.821e0bc02e43390b43a92307359fcb06.svg",
     "index.html": "/index.html",
-    "static/media/empty-box.svg": "/static/media/empty-box.056b12e80bd569d70cda792b467aa2e9.svg",
+    "static/media/empty-box.svg": "/static/media/empty-box.3cb617f8e65798f42b3cf908ae5b3a12.svg",
     "static/media/diffculties-adaptivity-placeholder.svg": "/static/media/diffculties-adaptivity-placeholder.c6d8f037b8330a9d8ba91b348e018b8e.svg",
     "static/media/diffculties-adaptivity-easy-unsolved-icon.svg": "/static/media/diffculties-adaptivity-easy-unsolved-icon.44989936a536cc67c5193405413defaf.svg",
     "static/media/diffculties-adaptivity-hard-unsolved-icon.svg": "/static/media/diffculties-adaptivity-hard-unsolved-icon.bb03b05e168698c46373929ab04765ce.svg",
@@ -844,6 +844,6 @@
   },
   "entrypoints": [
     "static/css/main.eeeba556.css",
-    "static/js/main.16bcd302.js"
+    "static/js/main.b793780e.js"
   ]
 }
