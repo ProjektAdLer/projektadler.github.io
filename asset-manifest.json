@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.eeeba556.css",
-    "main.js": "/static/js/main.d9b89d6c.js",
+    "main.js": "/static/js/main.b1c58a2a.js",
     "static/media/env-campus-studentClub.glb": "/static/media/env-campus-studentClub.adb86604e2706a801604.glb",
     "static/media/env-campus-auditorium.glb": "/static/media/env-campus-auditorium.34cf1eb11ce796bede47.glb",
     "static/media/env-campus-ab.glb": "/static/media/env-campus-ab.19c6c947701dd6df53be.glb",
@@ -844,6 +844,6 @@
   },
   "entrypoints": [
     "static/css/main.eeeba556.css",
-    "static/js/main.d9b89d6c.js"
+    "static/js/main.b1c58a2a.js"
   ]
 }
