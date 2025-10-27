@@ -20146,15 +20146,13 @@
                       });
                     }
                     static toStream(e, t) {
-                      return this.compiler
-                        .compile(e, t)
-                        .generateNodeStream({
-                          type: "nodebuffer",
-                          streamFiles: !0,
-                          mimeType:
-                            "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                          compression: "DEFLATE",
-                        });
+                      return this.compiler.compile(e, t).generateNodeStream({
+                        type: "nodebuffer",
+                        streamFiles: !0,
+                        mimeType:
+                          "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        compression: "DEFLATE",
+                      });
                     }
                   }
                   pa.compiler = new (class {
