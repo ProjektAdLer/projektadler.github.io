@@ -1000,6 +1000,7 @@
       "$type": "FrameStory",
       "frameStoryIntro": "Es war einmal ein Team bestehend aus Mitgliedern der TH Aschaffenburg, der Hochschule Kempten und dem zfh in Koblenz. Betraut mit der Aufgabe Adaptive Lernräume zu gestalten, wuchsen sie in wenigen Jahren über sich hinaus...",
       "frameStoryOutro": "Ausgerüstet mit der Erfahrung eines umfangreichen, preisgekrönten Projekts, endete die Gemeinschaft des AdLers zum 31.12.2025 und die Gefährt*innen zogen ihrer Wege..."
-    }
+    },
+    "worldId": 1
   }
 }
