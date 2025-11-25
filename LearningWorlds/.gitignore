@@ -1,0 +1,8 @@
+# Ignoriere alle MBZ-Dateien und extrahierte Lernwelten
+*.mbz
+*/
+.temp/
+worlds.json
+
+# Behalte nur .gitignore im Repo
+!.gitignore
