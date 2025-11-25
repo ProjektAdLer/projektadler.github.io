@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.040f1e0f.css",
-    "main.js": "/static/js/main.d46d8da1.js",
+    "main.js": "/static/js/main.bf09d282.js",
     "static/js/728.4fef59b3.chunk.js": "/static/js/728.4fef59b3.chunk.js",
     "static/media/env-campus-ab-studentclub.glb": "/static/media/env-campus-ab-studentclub.fa83ce45602c16f40566.glb",
     "static/media/env-campus-ab-labor.glb": "/static/media/env-campus-ab-labor.1407ae2aec47c995869a.glb",
@@ -871,6 +871,6 @@
   },
   "entrypoints": [
     "static/css/main.040f1e0f.css",
-    "static/js/main.d46d8da1.js"
+    "static/js/main.bf09d282.js"
   ]
 }
