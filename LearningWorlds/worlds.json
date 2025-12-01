@@ -5,6 +5,12 @@
       "worldName": "AdLer_in_a_Nutshell",
       "worldFolder": "AdLer_in_a_Nutshell",
       "elementCount": 24
+    },
+    {
+      "worldID": 2,
+      "worldName": "Das-Gaming-Seminar",
+      "worldFolder": "Das-Gaming-Seminar",
+      "elementCount": 15
     }
   ]
 }
