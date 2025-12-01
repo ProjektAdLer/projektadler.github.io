@@ -1,0 +1,478 @@
+{
+  "$type": "AWT",
+  "fileVersion": "2.4.0",
+  "amgVersion": "3.0.2",
+  "author": "Daniel Glaab",
+  "language": "de",
+  "world": {
+    "$type": "LearningWorld",
+    "evaluationLink": "https://projekt-adler.eu",
+    "evaluationLinkName": "Du willst mehr von AdLer sehen? Dann klicke hier!",
+    "evaluationLinkText": "Wow! Diese Menge Gaming Wissen in so kurzer Zeit zu vermitteln - das schafft nur AdLer!\n\nDanke für deine Teilnahme!",
+    "theme": "CampusKempten",
+    "enrolmentKey": "",
+    "worldName": "Das-Gaming-Seminar",
+    "worldUUID": "4241e45c-c9e6-49a0-a7db-364791f74270",
+    "worldDescription": "",
+    "worldGoals": [],
+    "topics": [],
+    "spaces": [
+      {
+        "$type": "LearningSpace",
+        "spaceGoals": [],
+        "spaceStory": {
+          "$type": "SimpleSpaceStory",
+          "introStory": null,
+          "outroStory": null
+        },
+        "spaceName": "Die ersten Spiele",
+        "requiredPointsToComplete": 3,
+        "spaceId": 1,
+        "spaceUUID": "fc413273-2bd7-4c85-8dd1-af098fad320b",
+        "spaceDescription": "Im Jahr 1947 meldeten Thomas T. Goldsmith Jr. und Estle Ray Mann das erste Computerspiel zur Patentierung an.",
+        "spaceSlotContents": [
+          1,
+          null,
+          2,
+          3,
+          null,
+          null
+        ],
+        "requiredSpacesToEnter": "",
+        "spaceTemplate": "R_20X20_6L",
+        "spaceTemplateStyle": "FnE"
+      },
+      {
+        "$type": "LearningSpace",
+        "spaceGoals": [],
+        "spaceStory": {
+          "$type": "SimpleSpaceStory",
+          "introStory": {
+            "$type": "SimpleSpaceStoryElement",
+            "storyTexts": [
+              "Kinder! Was ist das lange her! Oh Hallo!",
+              "Hallo! Mein Name ist Kunibert Kurt. Nennt mich bitte einfach Kuni.",
+              "Ich war im Jahr 1979, 16 Jahre alt. Mein Papa, damals schon ein \"Nerd\", ohne dass sich dieser Begriff in Deutschland zu dieser Zeit reger Bekanntheit erfreute, schenkte mir Weihnachten '79 einen Atari 2600.",
+              "Ich und -ähem- natürlich die Nachbarskinder und ich, waren hellauf begeistert!",
+              "Man konnte doch tatsächlich verschiedene Spiele spielen, in dem man sie hineinsteckte. Zauberei!",
+              "Ich habe hier in meinem kleinen Raum über die 70er Jahre Fotos von wichtigen Personen verteilt. Diese haben alle eines gemeinsam: Sie haben alle bei Atari gearbeitet!",
+              "Welche Geräte es vor diesem schicksalhaften Weihnachten 1979 noch so alles in diesem Jahrzehnt zum Thema \"Telespiele\" zu bestaunen gab, seht ihr in diesem Raum!"
+            ],
+            "elementModel": "a-npc-oldielight-male",
+            "modelFacialExpression": "thumbsup",
+            "storyNpcName": "Kunibert Kurth",
+            "exitAfterStorySequence": false
+          },
+          "outroStory": {
+            "$type": "SimpleSpaceStoryElement",
+            "storyTexts": [
+              "Mensch, das ging ja schnell!",
+              "Wirklich interessant, dass diese Leute alle mal bei Atari waren, oder?",
+              "Nunja. Das war erst der Anfang. In den 80ern geht Gaming dann so richtig los.",
+              "Da ist auch bei mir persönliches einiges passiert. Das erzähle ich euch dann im nächsten Raum..."
+            ],
+            "elementModel": "a-npc-oldielight-male",
+            "modelFacialExpression": "happy",
+            "storyNpcName": "Kunibert Kurth",
+            "exitAfterStorySequence": false
+          }
+        },
+        "spaceName": "Die wilden 70er",
+        "requiredPointsToComplete": 8,
+        "spaceId": 2,
+        "spaceUUID": "c95f056d-d58f-4254-b27a-e71fb77915ff",
+        "spaceDescription": "Das 8. Jahrzehnt des 20. Jahrhunderts. Eine wilde Zeit in vielen Bereichen der Welt und so auch in der Spielebranche. ",
+        "spaceSlotContents": [
+          4,
+          5,
+          6,
+          null,
+          7,
+          null,
+          8,
+          null,
+          9,
+          10,
+          11,
+          12,
+          13,
+          null,
+          null
+        ],
+        "requiredSpacesToEnter": "(1)",
+        "spaceTemplate": "D_40X37_15L",
+        "spaceTemplateStyle": "LearningArea"
+      },
+      {
+        "$type": "LearningSpace",
+        "spaceGoals": [],
+        "spaceStory": {
+          "$type": "SimpleSpaceStory",
+          "introStory": {
+            "$type": "SimpleSpaceStoryElement",
+            "storyTexts": [
+              "Da bist du ja wieder!",
+              "In den 80ern ist hier in Europa der Vormarsch der Heimcomputer nicht mehr aufzuhalten. Aber auch die Konsolen sind im Markt.",
+              "Während wir Anfang der 80er noch auf unserem Atari VCS spielten, hatten ab Mitte/Ende der 80er gute Zeiten mit Mario auf dem NES oder Sonic auf dem Master System.",
+              "Vom Videospielcrash, wie ihn die USA in den 80ern erlebten, bekamen wir hier in Europa, gar nicht so viel mit. Wir spielten auf unseren Heimcomputern.",
+              "Und das ab 1987 am liebsten auf unserem Amiga 500! Test Drive war mein absolutes Lieblingsspiel!",
+              "Weil in diesem Jahr so viel passiert ist beschränken wir uns auf drei Geräte:\nDas NES (Nintendo Entertainment System), das Sega Master System und den Amiga 500.",
+              "Viel Spaß!",
+              "Ach und ich bin euch ja noch meine persönlichen Erlebnisse schuldig. Ach, schaut erst einmal den Raum an.\nSobald ihr fertig seid, erzähle ich euch was bei mir so los war!",
+              "So jetzt bist du aber erst einmal dran. Bis später!"
+            ],
+            "elementModel": "a-npc-oldielight-male",
+            "modelFacialExpression": "thumbsup",
+            "storyNpcName": "Kunibert Kurth",
+            "exitAfterStorySequence": true
+          },
+          "outroStory": null
+        },
+        "spaceName": "The 80s",
+        "requiredPointsToComplete": 1,
+        "spaceId": 3,
+        "spaceUUID": "6fb9fad4-60cc-42e7-8407-c30a1c1586e7",
+        "spaceDescription": "In den 80ern nimmt Gaming erst so richtig Fahrt auf, erlebt aber in den USA auch die erste handfeste Krise...",
+        "spaceSlotContents": [
+          14,
+          null,
+          null,
+          null,
+          null,
+          null,
+          15,
+          null,
+          null,
+          null
+        ],
+        "requiredSpacesToEnter": "(1)",
+        "spaceTemplate": "L_32X31_10L",
+        "spaceTemplateStyle": "SocialArea"
+      }
+    ],
+    "elements": [
+      {
+        "$type": "LearningElement",
+        "elementDescription": "Nur ein kleiner Kreis hatte Zugang zu den ersten Videospielen.",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-text-bookshelf-1",
+        "learningSpaceParentId": 1,
+        "url": "",
+        "elementId": 1,
+        "elementUUID": "3e9d6d10-7f6f-48a7-9bb0-cf4a081304a0",
+        "elementName": "Wo wurden die ersten Spiele entwickelt",
+        "elementCategory": "text",
+        "elementFileType": "txt",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "Computer, wie wir sie heute am Handgelenk tragen, waren damals raumfüllende Monstrositäten aus Leitungen, Transistoren und Röhren.",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-picture-paintingeasel-1",
+        "learningSpaceParentId": 1,
+        "url": "",
+        "elementId": 2,
+        "elementUUID": "3b404e82-c0ad-42be-8422-3f45038ee909",
+        "elementName": "EDSAC-Rechner",
+        "elementCategory": "image",
+        "elementFileType": "jpg",
+        "elementEstimatedTimeMinutes": 1,
+        "elementDifficulty": 0
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "Wie viel ist in diesem Raum hängen geblieben? Versuche es mit drei einfachen Fragen.",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-h5p-deskpc-2",
+        "learningSpaceParentId": 1,
+        "url": "",
+        "elementId": 3,
+        "elementUUID": "65d88c55-37d6-4939-a4ad-5ded57d77af4",
+        "elementName": "Lückentext Videospielfrühzeit",
+        "elementCategory": "primitiveH5P",
+        "elementFileType": "h5p",
+        "elementEstimatedTimeMinutes": 1,
+        "elementDifficulty": 0
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-image-sciencegeo-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 4,
+        "elementUUID": "53172702-9f92-4e0d-980b-8b421df5eb13",
+        "elementName": "Larry Kaplan",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-text-bookshelf-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 5,
+        "elementUUID": "b9b2994b-26a5-45da-89cd-35f89eb29a61",
+        "elementName": "Jay Miner",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-video-movieprojector-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 6,
+        "elementUUID": "633ffa80-a1d7-43ff-939f-2a7775b1d514",
+        "elementName": "Andere wichtige Spielegeräte",
+        "elementCategory": "primitiveH5P",
+        "elementFileType": "h5p",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-text-comicshelfbig-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 7,
+        "elementUUID": "c5cfa16d-60cb-47ee-8bbd-a3197bee3d23",
+        "elementName": "David Crane",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-image-sciencebio-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 8,
+        "elementUUID": "4f8c7351-7025-4e08-ada6-e554e0f21303",
+        "elementName": "Steve Jobs",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-image-sciencewhiteboard-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 9,
+        "elementUUID": "0c844b49-43f6-42da-b54b-16cd6ad75d0f",
+        "elementName": "Alan Miller",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 0,
+        "elementModel": "l-video-television-1",
+        "learningSpaceParentId": 2,
+        "url": "https://www.youtube.com/watch?v=ZP_Xg3-GQHk",
+        "elementId": 10,
+        "elementUUID": "625e3472-ed43-418a-8ad9-11c5f256ebe4",
+        "elementName": "Die erste erfolgreiche Konsole",
+        "elementCategory": "video",
+        "elementFileType": "url",
+        "elementEstimatedTimeMinutes": 6,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-text-comicshelfsmall-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 11,
+        "elementUUID": "9606195f-a779-4cfd-a904-9c2a2f0daf67",
+        "elementName": "Bob Whitehead",
+        "elementCategory": "image",
+        "elementFileType": "png",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 0,
+        "elementModel": "l-text-bookshelf-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 12,
+        "elementUUID": "690d1318-f7f6-4189-94c9-8c41c8187472",
+        "elementName": "Der Atari VCS 2600 Trivia - Transkript",
+        "elementCategory": "text",
+        "elementFileType": "txt",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 1,
+        "elementModel": "l-h5p-deskpc-1",
+        "learningSpaceParentId": 2,
+        "url": "",
+        "elementId": 13,
+        "elementUUID": "98addc26-b8c0-40c5-9385-a5eadae3ca89",
+        "elementName": "Atari VCS 2600 Trivia - Audio",
+        "elementCategory": "primitiveH5P",
+        "elementFileType": "h5p",
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "LearningElement",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementMaxScore": 0,
+        "elementModel": "l-video-television-1",
+        "learningSpaceParentId": 3,
+        "url": "https://youtu.be/XBIBuBaDv1I?si=yu_9XBowJ4TRbOlz",
+        "elementId": 14,
+        "elementUUID": "d840e1d3-99a7-4823-92bb-423ff14a3321",
+        "elementName": "Sega Master System",
+        "elementCategory": "video",
+        "elementFileType": "url",
+        "elementEstimatedTimeMinutes": 10,
+        "elementDifficulty": null
+      },
+      {
+        "$type": "AdaptivityElement",
+        "elementId": 15,
+        "elementUUID": "cdd0da1c-39d8-4e5f-8124-c618d42160d0",
+        "elementName": "Gaming in den 80ern",
+        "elementDescription": "",
+        "elementGoals": [
+          ""
+        ],
+        "elementCategory": "adaptivity",
+        "elementFileType": "adaptivity",
+        "elementMaxScore": 1,
+        "elementModel": "a-npc-alerobot",
+        "learningSpaceParentId": 3,
+        "adaptivityContent": {
+          "$type": "adaptivityContent",
+          "introText": "",
+          "adaptivityTasks": [
+            {
+              "$type": "adaptivityTask",
+              "taskId": 1,
+              "taskUUID": "b59e3b19-9d52-4aff-b7a1-85db03b59c1a",
+              "taskTitle": "Nintendo",
+              "optional": false,
+              "requiredDifficulty": 0,
+              "adaptivityQuestions": [
+                {
+                  "$type": "adaptivityQuestion",
+                  "questionType": "multipleResponse",
+                  "questionId": 1,
+                  "questionUUID": "637fe805-ebc9-4e78-a0dd-0b68ce14b8da",
+                  "questionDifficulty": 0,
+                  "questionText": "Wie heißt der bekannteste Videospielheld Nintendos, der in den 80er Jahren bekannt wurde und bis heute Maskottchen von Nintendo ist?",
+                  "adaptivityRules": [],
+                  "choices": [
+                    {
+                      "$type": "AdaptivityQuestionAnswer",
+                      "answerText": "Giga Mario",
+                      "isCorrect": false
+                    },
+                    {
+                      "$type": "AdaptivityQuestionAnswer",
+                      "answerText": "Super Mario",
+                      "isCorrect": true
+                    },
+                    {
+                      "$type": "AdaptivityQuestionAnswer",
+                      "answerText": "Sonic the Hedgehog",
+                      "isCorrect": false
+                    },
+                    {
+                      "$type": "AdaptivityQuestionAnswer",
+                      "answerText": "Donkey.bas",
+                      "isCorrect": false
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "elementEstimatedTimeMinutes": 0,
+        "elementDifficulty": null
+      }
+    ],
+    "frameStory": {
+      "$type": "FrameStory",
+      "frameStoryIntro": "Gaming. Alles Begann mit ein paar Mathematikern, die sich die Zeit vertreiben wollten. Von den zimmerfüllenden Röhrenrechner und Mainframes der Frühzeit, über Generationen von Konsolen, bis hin zu einer der wichtigsten Mediengattungen von heute...",
+      "frameStoryOutro": "Wir lieben unsere Gaming-Helden und ihre Spielwelten. Super Mario, Lara Croft, Sonic The Hedgehog, Aloy, Kratos und die zahllosen Namenlosen Helden. Jetzt kennst du ihre Geschichte!"
+    },
+    "worldId": 2
+  }
+}

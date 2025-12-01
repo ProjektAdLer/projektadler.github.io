@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea1dbe47.css",
-    "main.js": "/static/js/main.1949dbdf.js",
+    "main.css": "/static/css/main.4e67166c.css",
+    "main.js": "/static/js/main.575e3ab8.js",
     "static/js/728.4fef59b3.chunk.js": "/static/js/728.4fef59b3.chunk.js",
     "static/media/env-campus-ab-studentclub.glb": "/static/media/env-campus-ab-studentclub.fa83ce45602c16f40566.glb",
     "static/media/env-campus-ab-labor.glb": "/static/media/env-campus-ab-labor.1407ae2aec47c995869a.glb",
@@ -870,7 +870,7 @@
     "static/media/diffculties-adaptivity-medium-required-unsolved-icon.svg": "/static/media/diffculties-adaptivity-medium-required-unsolved-icon.8e40b047911373a36f1c0b5ceaefc5e7.svg"
   },
   "entrypoints": [
-    "static/css/main.ea1dbe47.css",
-    "static/js/main.1949dbdf.js"
+    "static/css/main.4e67166c.css",
+    "static/js/main.575e3ab8.js"
   ]
 }
