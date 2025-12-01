@@ -1,6 +1,0 @@
-Der Atari VCS 2600
-	- Wurde unter dem Claim: "We take fun seriously" auf der CES in Chicago im Jahr 1977 vorgestellt
-	- Preis nach einigen Monaten Verkauf in Deutschland ca. 379 DM (Inflationsbereinigt 2025 ca. 477,54€)
-	- Konsole zum Anschluss an den Fernseher mit Spielen auf Wechselmodulen
-	- 8-Bit Mikroprozessor - Programmierbar
-	- Wurde nach über 10 Jahren im Markt 1991 von Atari eingestellt

@@ -4,13 +4,8 @@
       "worldID": 1,
       "worldName": "AdLer_in_a_Nutshell",
       "worldFolder": "AdLer_in_a_Nutshell",
+      "description": "Dieser Workshop soll Interessierten eine Einführung und einen Überblick über das Projekt AdLer geben.",
       "elementCount": 24
-    },
-    {
-      "worldID": 2,
-      "worldName": "Das-Gaming-Seminar",
-      "worldFolder": "Das-Gaming-Seminar",
-      "elementCount": 15
     }
   ]
 }
